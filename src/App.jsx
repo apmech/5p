@@ -30,6 +30,7 @@ function App() {
         <Licznik/>
         <StatusNet/>
         <Informacje info={"AAAAdawd"}/>
+        zmieniono
     </>
 
   )
