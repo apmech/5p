@@ -1,0 +1,9 @@
+<h1>react + vite</h1>
+        <Greeting imie={"L"}/>
+        <Greeting imie={"C"} wiek={125} lat/>
+        <Hello/>
+        <Owoce/>
+        <Counter/>
+        <img src={Kloc} alt="aaaa"/>
+        <UserCard imie={"aa"} wiek={2421} miasto={"SSSSSS"}/>
+        <Cwiczenia2/>
